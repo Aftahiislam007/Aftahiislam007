@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **HR Management System**
 
-- 👨‍💻 All of my projects are available at [https://aftahiislam.vercel.app/](https://aftahiislam.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mohammed-aftahi-islam.netlify.app/](https://mohammed-aftahi-islam.netlify.app/)
 
 - 📫 How to reach me **aftahiislam2016@gmail.com**
 
