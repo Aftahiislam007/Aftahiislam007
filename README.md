@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aftahi Islam</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<h4 align="left">I worked as a Junior Software Engineer at Excel IT AI Ltd., contributing my expertise in backend web development to develop web application softwares. My role involves updating the existing HR Management Software Features (such as adding filter search by employee joining date and department in employee management section, creating employee work hour management section, updating employee entry and exit time management features etc.) and also updating ERP Management Software features (such as adding Employee management section, updating search filters of inventory management etc.) using Laravel and My SQL database.</h4>
+<h4 align="left">I worked as a Junior Software Engineer at Excel IT AI Ltd., contributing my expertise in backend web development to develop web application softwares. My role involves updating the existing HR Management Software Features (such as adding filter search by employee joining date and department in employee management section, creating employee work hour management section, updating employee entry and exit time management features etc.) and also updating ERP Management Software features (such as adding Employee management section, updating search filters of inventory management etc.) using Laravel and My SQL database. And added that I also worked on ASP.NET Core and ASP.NET Web API-based web applications at my previous company.</h4>
 
 - 🔭 I’m currently working on **HR Management System**
 
